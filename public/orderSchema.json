@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "date": "22.04.2020 18:55",
+    "status": "open",
+    "car": "Volvo",
+    "regNumber": "OA123CT456",
+    "parts": [
+      {
+        "id": 1,
+        "title": "Tires",
+        "description": "Changing all Tires",
+        "numberOf": 4,
+        "status": "open"
+      },
+      {
+        "id": 2,
+        "title": "Brakes",
+        "description": "Changing the Brakes on the front",
+        "numberOf": 2,
+        "status": "open"
+      },
+      {
+        "id": 3,
+        "title": "Brake hose",
+        "description": "Changing the brake hose on the left side",
+        "numberOf": 4,
+        "status": "open"
+      },
+      {
+        "id": 4,
+        "title": "Brake Discs",
+        "description": "Changing the Brake Discs on the front",
+        "numberOf": 2,
+        "status": "open"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "23.04.2020 09:55",
+    "status": "open",
+    "car": "Scania",
+    "regNumber": "OT123AB456",
+    "parts": [
+      {
+        "id": 1,
+        "title": "Tires",
+        "description": "Changing all Tires",
+        "numberOf": 4,
+        "status": "open"
+      },
+      {
+        "id": 2,
+        "title": "Brakes",
+        "description": "Changing the Brakes on the front",
+        "numberOf": 2,
+        "status": "open"
+      },
+      {
+        "id": 3,
+        "title": "Brake hose",
+        "description": "Changing the brake hose on the left side",
+        "numberOf": 4,
+        "status": "open"
+      },
+      {
+        "id": 4,
+        "title": "Brake Discs",
+        "description": "Changing the Brake Discs on the front",
+        "numberOf": 2,
+        "status": "open"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "23.04.2020 10:05",
+    "status": "open",
+    "car": "DAF",
+    "regNumber": "AT123BO456",
+    "parts": [
+      {
+        "id": 1,
+        "title": "Tires",
+        "description": "Changing all Tires",
+        "numberOf": 4,
+        "status": "open"
+      },
+      {
+        "id": 2,
+        "title": "Brakes",
+        "description": "Changing the Brakes on the front",
+        "numberOf": 2,
+        "status": "open"
+      },
+      {
+        "id": 3,
+        "title": "Brake hose",
+        "description": "Changing the brake hose on the left side",
+        "numberOf": 4,
+        "status": "open"
+      },
+      {
+        "id": 4,
+        "title": "Brake Discs",
+        "description": "Changing the Brake Discs on the front",
+        "numberOf": 2,
+        "status": "open"
+      }
+    ]
+  }
+]
